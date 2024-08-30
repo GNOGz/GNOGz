@@ -1,4 +1,5 @@
-## Hi there 👋
+## Nice to meet you. My name is Gong 😚
+## isExhaused = true 🫠 
 
 <!--
 **GNOGz/GNOGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
